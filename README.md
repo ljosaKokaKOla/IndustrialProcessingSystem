@@ -34,6 +34,10 @@ dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:CoverletOutp
 dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=lcov /p:Threshold=67
 ```
 
+## Code Coverage
+Line coverage: **81.86%** (threshold: 67%)
+44/44 tests passing
+
 ## Key Design Decisions
 
 | Concern | Solution |
