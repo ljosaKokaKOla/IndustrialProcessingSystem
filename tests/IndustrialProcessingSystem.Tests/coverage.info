@@ -1,0 +1,678 @@
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Program.cs
+FN:44,System.Void IndustrialProcessingSystem.App.Program/<>c__DisplayClass0_0::<Main>b__0()
+FNDA:0,System.Void IndustrialProcessingSystem.App.Program/<>c__DisplayClass0_0::<Main>b__0()
+DA:45,0
+DA:46,0
+DA:47,0
+DA:49,0
+DA:50,0
+DA:51,0
+DA:52,0
+DA:53,0
+DA:54,0
+DA:55,0
+DA:56,0
+DA:57,0
+DA:58,0
+DA:60,0
+DA:61,0
+DA:62,0
+DA:63,0
+DA:64,0
+DA:65,0
+BRDA:46,436,1,0
+BRDA:51,36,0,0
+BRDA:51,36,1,0
+BRDA:57,235,0,0
+BRDA:57,235,1,0
+BRDA:46,436,0,0
+FN:8,System.Void IndustrialProcessingSystem.App.Program/<Main>d__0::MoveNext()
+FNDA:0,System.Void IndustrialProcessingSystem.App.Program/<Main>d__0::MoveNext()
+DA:9,0
+DA:10,0
+DA:11,0
+DA:12,0
+DA:13,0
+DA:14,0
+DA:18,0
+DA:19,0
+DA:21,0
+DA:23,0
+DA:25,0
+DA:26,0
+DA:28,0
+DA:29,0
+DA:30,0
+DA:31,0
+DA:33,0
+DA:34,0
+DA:35,0
+DA:36,0
+DA:38,0
+DA:39,0
+DA:40,0
+DA:42,0
+DA:43,0
+DA:44,0
+DA:48,0
+DA:59,0
+DA:66,0
+DA:67,0
+DA:69,0
+DA:70,0
+DA:71,0
+DA:72,0
+DA:73,0
+BRDA:10,37,0,0
+BRDA:10,37,1,0
+BRDA:11,90,0,0
+BRDA:11,90,1,0
+BRDA:25,688,1,0
+BRDA:30,426,0,0
+BRDA:30,426,1,0
+BRDA:25,688,0,0
+BRDA:42,916,1,0
+BRDA:44,801,0,0
+BRDA:44,801,1,0
+BRDA:42,916,0,0
+LF:54
+LH:0
+BRF:18
+BRH:0
+FNF:2
+FNH:0
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Services\ConfigLoader.cs
+FN:8,IndustrialProcessingSystem.App.Models.SystemConfig IndustrialProcessingSystem.App.Services.ConfigLoader::Load(System.String)
+FNDA:5,IndustrialProcessingSystem.App.Models.SystemConfig IndustrialProcessingSystem.App.Services.ConfigLoader::Load(System.String)
+DA:9,5
+DA:10,5
+DA:11,4
+DA:13,4
+DA:14,4
+DA:15,4
+DA:16,4
+DA:17,4
+DA:19,4
+DA:20,4
+DA:21,3
+DA:22,13
+DA:23,2
+DA:24,2
+DA:25,2
+DA:26,2
+DA:27,2
+DA:29,2
+DA:30,2
+DA:31,3
+DA:33,4
+DA:34,4
+BRDA:11,15,0,0
+BRDA:11,15,1,4
+BRDA:13,53,0,1
+BRDA:13,53,1,3
+BRDA:13,65,0,1
+BRDA:13,65,1,4
+BRDA:13,102,0,1
+BRDA:13,102,1,3
+BRDA:13,114,0,1
+BRDA:13,114,1,4
+BRDA:20,159,0,3
+BRDA:22,370,1,2
+BRDA:24,222,0,0
+BRDA:24,222,1,2
+BRDA:24,234,0,0
+BRDA:24,234,1,2
+BRDA:26,272,0,0
+BRDA:26,272,1,2
+BRDA:26,284,0,0
+BRDA:26,284,1,2
+BRDA:27,312,0,0
+BRDA:27,312,1,2
+BRDA:27,324,0,0
+BRDA:27,324,1,2
+BRDA:22,370,0,3
+BRDA:20,159,1,4
+LF:22
+LH:22
+BRF:26
+BRH:19
+FNF:1
+FNH:1
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Services\JobLogger.cs
+FN:38,System.Void IndustrialProcessingSystem.App.Services.JobLogger::Dispose()
+FNDA:17,System.Void IndustrialProcessingSystem.App.Services.JobLogger::Dispose()
+DA:39,17
+DA:40,17
+DA:41,17
+FN:5,System.Void IndustrialProcessingSystem.App.Services.JobLogger::.ctor(System.String)
+FNDA:17,System.Void IndustrialProcessingSystem.App.Services.JobLogger::.ctor(System.String)
+DA:6,17
+DA:8,17
+DA:9,17
+DA:10,17
+DA:11,17
+FN:19,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<LogAbortAsync>d__4::MoveNext()
+FNDA:2,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<LogAbortAsync>d__4::MoveNext()
+DA:20,2
+DA:21,2
+DA:22,2
+DA:23,1
+FN:13,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<LogAsync>d__3::MoveNext()
+FNDA:59,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<LogAsync>d__3::MoveNext()
+DA:14,59
+DA:15,59
+DA:16,59
+DA:17,59
+FN:25,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<WriteLineAsync>d__5::MoveNext()
+FNDA:61,System.Void IndustrialProcessingSystem.App.Services.JobLogger/<WriteLineAsync>d__5::MoveNext()
+DA:26,61
+DA:27,61
+DA:29,60
+DA:30,60
+DA:31,60
+DA:33,60
+DA:34,60
+DA:35,60
+DA:36,60
+LF:25
+LH:25
+BRF:0
+BRH:0
+FNF:5
+FNH:5
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Services\JobProcessor.cs
+FN:19,System.Threading.Tasks.Task`1<System.Int32> IndustrialProcessingSystem.App.Services.JobProcessor::ProcessPrimeAsync(System.String)
+FNDA:6,System.Threading.Tasks.Task`1<System.Int32> IndustrialProcessingSystem.App.Services.JobProcessor::ProcessPrimeAsync(System.String)
+DA:20,6
+DA:22,6
+DA:23,6
+DA:25,6
+DA:26,6
+DA:27,6
+DA:28,6
+DA:29,12
+DA:30,6
+FN:32,System.ValueTuple`2<System.Int32,System.Int32> IndustrialProcessingSystem.App.Services.JobProcessor::ParsePrimePayload(System.String)
+FNDA:8,System.ValueTuple`2<System.Int32,System.Int32> IndustrialProcessingSystem.App.Services.JobProcessor::ParsePrimePayload(System.String)
+DA:33,8
+DA:34,8
+DA:35,8
+DA:37,56
+DA:38,16
+DA:39,16
+DA:40,16
+DA:41,16
+DA:42,16
+DA:43,24
+DA:44,16
+DA:45,16
+DA:47,8
+DA:48,8
+BRDA:37,163,1,16
+BRDA:40,64,1,16
+BRDA:43,126,0,8
+BRDA:43,126,1,8
+BRDA:44,149,0,8
+BRDA:44,149,1,16
+BRDA:40,64,0,16
+BRDA:37,163,0,8
+FN:50,System.Int32 IndustrialProcessingSystem.App.Services.JobProcessor::CountPrimesParallel(System.Int32,System.Int32)
+FNDA:6,System.Int32 IndustrialProcessingSystem.App.Services.JobProcessor::CountPrimesParallel(System.Int32,System.Int32)
+DA:51,6
+DA:52,7
+DA:54,5
+DA:55,5
+DA:57,10
+DA:58,5
+DA:59,2155
+DA:60,2535
+DA:61,2155
+DA:62,2155
+DA:63,10
+DA:65,5
+DA:66,6
+BRDA:52,13,0,1
+BRDA:52,13,1,5
+BRDA:60,9,0,380
+BRDA:60,9,1,2155
+FN:68,System.Boolean IndustrialProcessingSystem.App.Services.JobProcessor::IsPrime(System.Int32)
+FNDA:2155,System.Boolean IndustrialProcessingSystem.App.Services.JobProcessor::IsPrime(System.Int32)
+DA:69,2155
+DA:70,2155
+DA:71,2160
+DA:72,3225
+DA:73,10392
+DA:74,5521
+DA:75,375
+DA:76,2155
+BRDA:70,7,0,0
+BRDA:70,7,1,2155
+BRDA:71,19,0,5
+BRDA:71,19,1,2150
+BRDA:72,33,0,1075
+BRDA:72,33,1,1075
+BRDA:73,85,1,4821
+BRDA:74,55,0,700
+BRDA:74,55,1,4121
+BRDA:73,85,0,375
+FN:87,System.Int32 IndustrialProcessingSystem.App.Services.JobProcessor::ParseIOPayload(System.String)
+FNDA:40,System.Int32 IndustrialProcessingSystem.App.Services.JobProcessor::ParseIOPayload(System.String)
+DA:88,40
+DA:89,161
+DA:90,40
+DA:91,40
+DA:92,40
+DA:93,39
+DA:94,1
+DA:95,1
+DA:96,40
+BRDA:89,110,1,40
+BRDA:92,40,0,40
+BRDA:92,40,1,0
+BRDA:92,67,0,39
+BRDA:92,67,1,1
+BRDA:89,110,0,1
+FN:6,System.Void IndustrialProcessingSystem.App.Services.JobProcessor::.cctor()
+FNDA:1,System.Void IndustrialProcessingSystem.App.Services.JobProcessor::.cctor()
+DA:7,1
+FN:81,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<>c__DisplayClass6_0::<ProcessIOAsync>b__0()
+FNDA:76,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<>c__DisplayClass6_0::<ProcessIOAsync>b__0()
+DA:82,76
+FN:9,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<ProcessAsync>d__1::MoveNext()
+FNDA:44,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<ProcessAsync>d__1::MoveNext()
+DA:10,44
+DA:11,44
+DA:12,44
+DA:13,6
+DA:14,35
+DA:15,0
+DA:16,44
+DA:17,41
+BRDA:11,55,0,38
+BRDA:11,55,1,6
+BRDA:11,61,1,38
+BRDA:11,61,0,0
+FN:78,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<ProcessIOAsync>d__6::MoveNext()
+FNDA:38,System.Void IndustrialProcessingSystem.App.Services.JobProcessor/<ProcessIOAsync>d__6::MoveNext()
+DA:79,38
+DA:81,38
+DA:83,35
+DA:84,35
+DA:85,35
+LF:68
+LH:67
+BRF:32
+BRH:29
+FNF:9
+FNH:9
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Services\ProcessingSystem.cs
+FN:64,IndustrialProcessingSystem.App.Models.JobHandle IndustrialProcessingSystem.App.Services.ProcessingSystem::Submit(IndustrialProcessingSystem.App.Models.Job)
+FNDA:47,IndustrialProcessingSystem.App.Models.JobHandle IndustrialProcessingSystem.App.Services.ProcessingSystem::Submit(IndustrialProcessingSystem.App.Models.Job)
+DA:65,47
+DA:66,47
+DA:67,1
+DA:69,46
+DA:70,46
+DA:71,46
+DA:72,1
+DA:73,1
+DA:74,1
+DA:77,45
+DA:78,45
+DA:79,45
+DA:81,45
+DA:82,45
+DA:83,45
+DA:85,45
+DA:86,47
+BRDA:66,24,0,1
+BRDA:66,24,1,46
+BRDA:71,79,0,1
+BRDA:71,79,1,45
+FN:106,IndustrialProcessingSystem.App.Models.Job IndustrialProcessingSystem.App.Services.ProcessingSystem::Dequeue()
+FNDA:36,IndustrialProcessingSystem.App.Models.Job IndustrialProcessingSystem.App.Services.ProcessingSystem::Dequeue()
+DA:107,36
+DA:108,36
+DA:109,36
+DA:110,36
+DA:111,36
+DA:112,36
+DA:113,36
+DA:115,36
+BRDA:110,36,0,0
+BRDA:110,36,1,36
+FN:179,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::RecordResult(IndustrialProcessingSystem.App.Models.Job,System.Int32,System.Boolean,System.TimeSpan)
+FNDA:35,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::RecordResult(IndustrialProcessingSystem.App.Models.Job,System.Int32,System.Boolean,System.TimeSpan)
+DA:180,35
+DA:181,35
+DA:182,35
+DA:183,35
+DA:184,35
+DA:185,35
+DA:186,35
+DA:187,35
+DA:188,35
+DA:189,35
+DA:190,35
+FN:193,System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.Job> IndustrialProcessingSystem.App.Services.ProcessingSystem::GetTopJobs(System.Int32)
+FNDA:1,System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.Job> IndustrialProcessingSystem.App.Services.ProcessingSystem::GetTopJobs(System.Int32)
+DA:194,1
+DA:195,1
+DA:196,4
+DA:197,1
+FN:199,IndustrialProcessingSystem.App.Models.Job IndustrialProcessingSystem.App.Services.ProcessingSystem::GetJob(System.Guid)
+FNDA:2,IndustrialProcessingSystem.App.Models.Job IndustrialProcessingSystem.App.Services.ProcessingSystem::GetJob(System.Guid)
+DA:200,2
+DA:201,2
+DA:202,3
+DA:203,2
+FN:206,System.Int32 IndustrialProcessingSystem.App.Services.ProcessingSystem::get_QueueCount()
+FNDA:4,System.Int32 IndustrialProcessingSystem.App.Services.ProcessingSystem::get_QueueCount()
+DA:207,4
+FN:209,System.Collections.Generic.IReadOnlyCollection`1<IndustrialProcessingSystem.App.Models.JobResult> IndustrialProcessingSystem.App.Services.ProcessingSystem::GetResults()
+FNDA:1,System.Collections.Generic.IReadOnlyCollection`1<IndustrialProcessingSystem.App.Models.JobResult> IndustrialProcessingSystem.App.Services.ProcessingSystem::GetResults()
+DA:210,1
+FN:213,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::Dispose()
+FNDA:13,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::Dispose()
+DA:214,13
+DA:215,13
+DA:216,13
+DA:217,13
+DA:218,13
+DA:219,13
+DA:220,13
+DA:221,13
+FN:52,System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.JobResult> IndustrialProcessingSystem.App.Services.ProcessingSystem::<.ctor>b__19_1()
+FNDA:13,System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.JobResult> IndustrialProcessingSystem.App.Services.ProcessingSystem::<.ctor>b__19_1()
+DA:53,13
+FN:59,System.Threading.Tasks.Task IndustrialProcessingSystem.App.Services.ProcessingSystem::<.ctor>b__19_4()
+FNDA:42,System.Threading.Tasks.Task IndustrialProcessingSystem.App.Services.ProcessingSystem::<.ctor>b__19_4()
+DA:60,42
+FN:13,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::.ctor(System.Int32,System.Int32,System.String,System.String)
+FNDA:13,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem::.ctor(System.Int32,System.Int32,System.String,System.String)
+DA:14,13
+DA:15,13
+DA:18,13
+DA:21,13
+DA:24,13
+DA:27,13
+DA:28,13
+DA:29,13
+DA:39,13
+DA:40,13
+DA:41,13
+DA:42,13
+DA:43,13
+DA:45,13
+DA:46,13
+DA:47,41
+DA:48,41
+DA:49,41
+DA:50,54
+DA:52,13
+DA:56,48
+DA:57,15
+DA:59,68
+DA:61,13
+BRDA:59,278,1,21
+BRDA:59,278,0,13
+BRDA:49,21,0,37
+BRDA:49,21,1,4
+FN:120,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem/<ExecuteWithRetryAsync>d__23::MoveNext()
+FNDA:36,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem/<ExecuteWithRetryAsync>d__23::MoveNext()
+DA:121,36
+DA:125,36
+DA:127,76
+DA:128,38
+DA:129,38
+DA:130,38
+DA:133,38
+DA:134,38
+DA:135,38
+DA:137,38
+DA:138,38
+DA:139,38
+DA:141,38
+DA:142,35
+DA:143,35
+DA:144,35
+DA:145,70
+DA:146,35
+DA:150,3
+DA:151,0
+DA:152,0
+DA:153,0
+DA:154,0
+DA:155,0
+DA:156,0
+DA:157,0
+DA:159,3
+DA:160,3
+DA:161,3
+DA:162,2
+DA:164,4
+DA:165,2
+DA:167,1
+DA:169,1
+DA:170,0
+DA:171,0
+DA:173,2
+DA:174,2
+DA:176,0
+DA:177,35
+BRDA:127,1115,1,38
+BRDA:141,311,0,35
+BRDA:141,311,1,3
+BRDA:141,331,0,35
+BRDA:145,408,0,35
+BRDA:145,408,1,35
+BRDA:141,331,1,3
+BRDA:159,750,0,3
+BRDA:161,769,0,2
+BRDA:164,793,0,2
+BRDA:164,793,1,2
+BRDA:161,769,1,1
+BRDA:159,750,1,2
+BRDA:127,1115,0,0
+FN:89,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem/<WorkerLoopAsync>d__21::MoveNext()
+FNDA:21,System.Void IndustrialProcessingSystem.App.Services.ProcessingSystem/<WorkerLoopAsync>d__21::MoveNext()
+DA:90,21
+DA:91,56
+DA:92,52
+DA:93,140
+DA:94,48
+DA:96,36
+DA:97,36
+DA:99,36
+DA:101,35
+DA:102,35
+DA:103,35
+DA:104,20
+BRDA:91,415,1,52
+BRDA:97,191,1,36
+BRDA:101,362,0,35
+BRDA:101,362,1,35
+BRDA:97,191,0,56
+BRDA:91,415,0,20
+LF:132
+LH:122
+BRF:30
+BRH:28
+FNF:13
+FNH:13
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Services\ReportService.cs
+FN:31,System.Void IndustrialProcessingSystem.App.Services.ReportService::GenerateReport()
+FNDA:15,System.Void IndustrialProcessingSystem.App.Services.ReportService::GenerateReport()
+DA:32,15
+DA:34,15
+DA:35,15
+DA:37,25
+DA:39,15
+DA:40,3
+DA:41,15
+DA:43,15
+DA:44,8
+DA:45,15
+DA:47,15
+DA:48,5
+DA:49,1
+DA:50,1
+DA:51,1
+DA:52,15
+DA:54,15
+DA:55,15
+DA:56,15
+DA:57,15
+DA:58,15
+DA:59,3
+DA:60,3
+DA:61,3
+DA:62,15
+DA:63,15
+DA:64,3
+DA:65,3
+DA:66,3
+DA:67,15
+DA:68,15
+DA:69,16
+DA:70,16
+DA:71,16
+DA:74,15
+DA:75,15
+DA:76,15
+DA:77,15
+DA:78,0
+DA:79,0
+DA:80,0
+DA:81,0
+DA:82,15
+FN:84,System.Void IndustrialProcessingSystem.App.Services.ReportService::Dispose()
+FNDA:17,System.Void IndustrialProcessingSystem.App.Services.ReportService::Dispose()
+DA:85,17
+DA:86,17
+DA:87,17
+FN:26,System.Void IndustrialProcessingSystem.App.Services.ReportService::<.ctor>b__5_0(System.Object)
+FNDA:17,System.Void IndustrialProcessingSystem.App.Services.ReportService::<.ctor>b__5_0(System.Object)
+DA:27,17
+FN:11,System.Void IndustrialProcessingSystem.App.Services.ReportService::.ctor(System.String,System.Func`1<System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.JobResult>>)
+FNDA:17,System.Void IndustrialProcessingSystem.App.Services.ReportService::.ctor(System.String,System.Func`1<System.Collections.Generic.IEnumerable`1<IndustrialProcessingSystem.App.Models.JobResult>>)
+DA:12,17
+DA:15,17
+DA:16,17
+DA:17,17
+DA:18,17
+DA:19,17
+DA:23,17
+DA:24,17
+DA:25,0
+DA:28,17
+DA:29,17
+BRDA:24,55,0,0
+BRDA:24,55,1,17
+LF:58
+LH:53
+BRF:2
+BRH:1
+FNF:4
+FNH:4
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Models\Job.cs
+FN:10,System.Guid IndustrialProcessingSystem.App.Models.Job::get_Id()
+FNDA:519,System.Guid IndustrialProcessingSystem.App.Models.Job::get_Id()
+DA:11,519
+FN:11,IndustrialProcessingSystem.App.Models.JobType IndustrialProcessingSystem.App.Models.Job::get_Type()
+FNDA:241,IndustrialProcessingSystem.App.Models.JobType IndustrialProcessingSystem.App.Models.Job::get_Type()
+DA:12,241
+FN:12,System.String IndustrialProcessingSystem.App.Models.Job::get_Payload()
+FNDA:364,System.String IndustrialProcessingSystem.App.Models.Job::get_Payload()
+DA:13,364
+FN:13,System.Int32 IndustrialProcessingSystem.App.Models.Job::get_Priority()
+FNDA:206,System.Int32 IndustrialProcessingSystem.App.Models.Job::get_Priority()
+DA:14,206
+FN:15,System.Void IndustrialProcessingSystem.App.Models.Job::.ctor()
+FNDA:3,System.Void IndustrialProcessingSystem.App.Models.Job::.ctor()
+DA:16,3
+FN:17,System.Void IndustrialProcessingSystem.App.Models.Job::.ctor(IndustrialProcessingSystem.App.Models.JobType,System.String,System.Int32)
+FNDA:158,System.Void IndustrialProcessingSystem.App.Models.Job::.ctor(IndustrialProcessingSystem.App.Models.JobType,System.String,System.Int32)
+DA:18,158
+DA:19,158
+DA:20,158
+DA:21,158
+DA:22,158
+DA:23,158
+LF:11
+LH:11
+BRF:0
+BRH:0
+FNF:6
+FNH:6
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Models\JobHandle.cs
+FN:4,System.Guid IndustrialProcessingSystem.App.Models.JobHandle::get_Id()
+FNDA:49,System.Guid IndustrialProcessingSystem.App.Models.JobHandle::get_Id()
+DA:5,49
+FN:5,System.Threading.Tasks.Task`1<System.Int32> IndustrialProcessingSystem.App.Models.JobHandle::get_Result()
+FNDA:83,System.Threading.Tasks.Task`1<System.Int32> IndustrialProcessingSystem.App.Models.JobHandle::get_Result()
+DA:6,83
+FN:7,System.Void IndustrialProcessingSystem.App.Models.JobHandle::.ctor(System.Guid,System.Threading.Tasks.Task`1<System.Int32>)
+FNDA:47,System.Void IndustrialProcessingSystem.App.Models.JobHandle::.ctor(System.Guid,System.Threading.Tasks.Task`1<System.Int32>)
+DA:8,47
+DA:9,47
+DA:10,47
+DA:11,47
+DA:12,47
+LF:7
+LH:7
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Models\JobResult.cs
+FN:4,System.Guid IndustrialProcessingSystem.App.Models.JobResult::get_JobId()
+FNDA:41,System.Guid IndustrialProcessingSystem.App.Models.JobResult::get_JobId()
+DA:5,41
+FN:5,IndustrialProcessingSystem.App.Models.JobType IndustrialProcessingSystem.App.Models.JobResult::get_JobType()
+FNDA:51,IndustrialProcessingSystem.App.Models.JobType IndustrialProcessingSystem.App.Models.JobResult::get_JobType()
+DA:6,51
+FN:6,System.Int32 IndustrialProcessingSystem.App.Models.JobResult::get_Result()
+FNDA:40,System.Int32 IndustrialProcessingSystem.App.Models.JobResult::get_Result()
+DA:7,40
+FN:7,System.Boolean IndustrialProcessingSystem.App.Models.JobResult::get_Success()
+FNDA:46,System.Boolean IndustrialProcessingSystem.App.Models.JobResult::get_Success()
+DA:8,46
+FN:8,System.DateTime IndustrialProcessingSystem.App.Models.JobResult::get_CompletedAt()
+FNDA:40,System.DateTime IndustrialProcessingSystem.App.Models.JobResult::get_CompletedAt()
+DA:9,40
+FN:9,System.TimeSpan IndustrialProcessingSystem.App.Models.JobResult::get_Duration()
+FNDA:45,System.TimeSpan IndustrialProcessingSystem.App.Models.JobResult::get_Duration()
+DA:10,45
+LF:6
+LH:6
+BRF:0
+BRH:0
+FNF:6
+FNH:6
+end_of_record
+SF:C:\Users\Korisnik\Desktop\K1_PSUSU\src\IndustrialProcessingSystem.App\Models\SystemConfig.cs
+FN:4,System.Int32 IndustrialProcessingSystem.App.Models.SystemConfig::get_WorkerCount()
+FNDA:12,System.Int32 IndustrialProcessingSystem.App.Models.SystemConfig::get_WorkerCount()
+DA:5,12
+FN:5,System.Int32 IndustrialProcessingSystem.App.Models.SystemConfig::get_MaxQueueSize()
+FNDA:12,System.Int32 IndustrialProcessingSystem.App.Models.SystemConfig::get_MaxQueueSize()
+DA:6,12
+FN:6,System.Collections.Generic.List`1<IndustrialProcessingSystem.App.Models.Job> IndustrialProcessingSystem.App.Models.SystemConfig::get_InitialJobs()
+FNDA:13,System.Collections.Generic.List`1<IndustrialProcessingSystem.App.Models.Job> IndustrialProcessingSystem.App.Models.SystemConfig::get_InitialJobs()
+DA:7,13
+LF:3
+LH:3
+BRF:0
+BRH:0
+FNF:3
+FNH:3
+end_of_record
