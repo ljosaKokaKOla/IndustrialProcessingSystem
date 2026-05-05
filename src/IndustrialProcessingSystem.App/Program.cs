@@ -7,7 +7,7 @@ class Program
 {
     static async Task Main(string[] args)
     {
-        string configPath = args.Length > 0 ? args[0] : "SystemConfig.xml";
+        string configPath = args.Length > 0 ? args[0] : Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SystemConfig.xml");
         if (!File.Exists(configPath))
         {
             Console.Error.WriteLine($"Config file not found: {configPath}");
