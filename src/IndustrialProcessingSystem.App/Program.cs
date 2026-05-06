@@ -67,7 +67,11 @@ class Program
         }
 
         Console.WriteLine("[Main] Running 15s. Press Enter to stop early.");
-        try { await Task.Delay(15_000, cts.Token); } catch { }
+
+        var delayTask = Task.Delay(180_000, cts.Token);
+        var inputTask = Task.Run(() => Console.ReadLine());
+
+        await Task.WhenAny(delayTask, inputTask);
         cts.Cancel();
         Console.WriteLine("[Main] Shutdown complete.");
     }

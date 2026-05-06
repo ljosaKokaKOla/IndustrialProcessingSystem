@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report GeneratedAt="2026-05-06T20:12:54.6234639+02:00">
+  <JobCountByType>
+    <Entry Type="IO" Count="251" />
+    <Entry Type="Prime" Count="286" />
+  </JobCountByType>
+  <AvgDurationMsByType>
+    <Entry Type="IO" AvgMs="1048,84" />
+    <Entry Type="Prime" AvgMs="4,24" />
+  </AvgDurationMsByType>
+  <FailedJobsByType>
+    <Entry Type="IO" Count="2" />
+  </FailedJobsByType>
+</Report>
